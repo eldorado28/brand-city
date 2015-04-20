@@ -1,30 +1,18 @@
-# Brand City
-WP-1L landing page project
+# Awesome, you've just made a new workspace!
+Workspaces are fantastic for organizing your work. This new workspace, which lives inside the 'Workspaces' folder of your home
+directory, is a place where you can store all relevant and related files to a particular project. For example, if you
+are working on multiple projects, its nice to have them separated as follows:
+-|home dir
+   -|Workspaces
+    -| Project 1
+    -| Project 2
+    -| Project 3
 
-* font
-    https://www.google.com/fonts/specimen/Open+Sans
+Workspaces help keep your projects organized. You can create any number of workspaces. There are no limits.
 
-* JQuery
-    http://jquery.com/
+Note: A workspace folder is just a regular folder so you can create any number of files and folders inside it.
 
-* Icons
-    http://fortawesome.github.io/Font-Awesome/
+As you move back and forth between your workspaces, Koding will remember everything about each workspace. This includes things
+like IDE settings, files open, Terminals open, etc.
 
-* Flags
-    http://lipis.github.io/flag-icon-css/
-
-* Car slider
-    http://www.jssor.com/download.html
-
-* Star rating
-    https://rateit.codeplex.com/
-
-* Calendar
-    http://jqueryui.com/datepicker/#multiple-calendars
-    
-* Charts
-    http://www.jqplot.com/tests/pie-donut-charts.php
-    http://www.chartjs.org/docs/#doughnut-pie-chart
-    http://canvasjs.com/html5-javascript-doughnut-chart/
-    
-
+Enjoy and Happy Koding!
