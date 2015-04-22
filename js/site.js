@@ -1,1 +1,5 @@
-console.log('it works');
+$(function(){
+
+    $('body').append('<h3>JQuery works</h3>')
+
+});
