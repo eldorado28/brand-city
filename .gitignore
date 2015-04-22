@@ -1,8 +1,9 @@
 
 
-# Netbeans project files
+# IDE files
 nbproject/
-
+.idea/
 
 # Project src files
-__src-files/
+
+_src-files/
