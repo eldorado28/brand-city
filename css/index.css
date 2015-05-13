@@ -1,0 +1,388 @@
+/* ================================ *
+ * Top Menu
+ * ================================ */
+
+body {
+    font-family: "Helvetica Neue", "Helvetica", Helvetica, Arial, sans-serif;
+    font-size: 14px;
+    line-height: 1.3;
+    margin: 0;
+    padding: 0;
+}
+
+.header {
+	height: 64px;
+	width: 1366px;
+	background-color: #1a587f;
+}
+
+.container  {
+    margin: 0 auto;
+    width: 960px;
+}
+
+.top-menu > ul{
+	float: right;
+	list-style-type: none;
+}
+
+.top-menu{
+	width: 1000px;
+	margin-top: -27px;
+}
+
+a {
+    color: #FFF;
+    text-decoration: none;
+}
+
+.menu-container {
+	border: 1px solid #FFF;
+	padding-top: 8px;
+	padding-bottom: 8px;
+	padding-right: 15px;
+	padding-left: 15px;
+	margin-left: 30px;
+	border-radius: 5px;
+	margin-top: -25px;
+
+	
+}
+
+.currency-menu {
+	margin-top: -16px;
+	padding-right: 10px;
+}
+
+.lang-menu {
+	margin-top: -16px;
+	padding-right: 10px;
+}
+
+.logo-container {
+	width: 174px;
+	margin-left: -55px;
+}
+
+.phone-menu span {
+    font-size: 11px;
+	color: #FFF;
+	position: absolute;
+	margin-top: -3px;
+}
+
+.phone-menu {
+	padding-right: 45px;
+	border-right: 1px solid #FFF;
+	margin-top: -20px;	
+}
+
+.users-menu {
+	padding-right: 80px;
+	margin-top: -16px
+}
+
+.chevron{
+	padding-left: 80px;
+	margin-top: -18px;
+}
+
+.chevron-1{
+	padding-left: 17px;
+	margin-top: -18px;
+}
+
+.chevron-2{
+	padding-left: 25px;
+	margin-top: -18px;
+}
+
+.chevron-3{
+	padding-left: 125px;
+	margin-top: -18px;
+}
+
+.phone {
+	margin-left: -20px;
+	margin-top: -15px;
+	font-size: 15px;
+}
+
+.heart {
+	margin-left: -20px;
+	margin-bottom: -17px;
+}
+
+/* ================================ *
+ * picture / content after top menu
+ * ================================ */
+ 
+ .section {
+	clear: both;
+	padding: 0px;
+	margin: 0px;
+}
+
+.check {
+}
+
+.table-1 {
+	padding-top: 5px;
+}
+
+.tab td{
+	color: #FFF;
+	padding: 10px;
+	padding-bottom: 5px;
+	padding-left: 56px;
+}
+
+.tab-1 td{
+	color: #FFF;
+	padding: 10px;
+	padding-top: 7px;
+	padding-left: 56px;
+}
+
+.title h1 {
+	padding-left: 180px;
+	margin-top: -340px;
+	color: #FFF;
+	font-size: 45px;
+}
+
+.text p {
+	padding-left: 250px;
+	color: #FFF;
+	font-size: 23px;
+	margin-top: -30px;
+}
+
+.text-1 p {
+	padding-left: 110px;
+	color: #FFF;
+	font-size: 23px;
+	margin-top: -15px;
+}
+
+.something {
+	display: inline-block;
+	height: 82px;
+	border: 1px solid #F00;
+	background-color: #ffcd4a;
+	border-radius: 5px;
+    width: 956px;
+}
+
+.something h3 {
+	padding-top: 12px;
+	padding-left: 370px;
+}
+
+/* ================================ *
+ * Car Select menu.
+ * ================================ */
+
+ .deals {
+ 	height: 64px;
+	background-color: #efe3c5;
+ }
+ 
+ .deals h3 {
+	padding-top: 28px;
+	display: middle;
+	padding-left: 530px;
+	color: #8d6a16;
+ }
+ 
+ .car-menu {
+	height: 321px;
+ }
+ 
+ .car-menu h2 {
+	padding-top: 160px;
+	padding-left: 330px;
+ }
+ 
+ .locations {
+	height: 115px;
+	background-color: #efe3c5;
+ }
+ 
+ .locations h3 {
+	padding-top: 31px;
+	padding-left: 560px;
+	color: #726e65;
+ }
+ 
+ .table-2 {
+	margin-top: -50px;
+ }
+ 
+ .tab-2 td {
+	font-size: 17px;
+	color: #8d6a16;
+ }
+ 
+ /* ================================ *
+ * AVIS Customer Ratings in Milan
+ * ================================ */
+
+/* resets */
+*,
+*:before,
+*:after {
+  box-sizing: border-box;
+}
+.clearfix:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+.wrapper {
+  width: 960px;
+  margin: 0 auto;
+  padding: 0px;
+  max-width: 95%;
+  background-color: #fff;
+}
+
+.wrapper h3 {
+    padding-top: 30px;
+    margin-top: 22px;
+	border-bottom: 3px solid #eeeeee;
+	padding-bottom: 20px;
+}
+
+.wrapper a {
+    color: #3e88be;    
+}
+
+.rate {
+	float: right;
+	margin-top: -35px;
+	font-size: 18px;
+	color: #6690aa;
+}
+
+.flag {
+	padding-left: 50px;
+	margin-top: -18px;
+}
+
+.post {
+	padding-bottom: 13px;
+}
+
+.pic {
+	padding-left: 50px;
+	font-size: 10px;
+	color: #9b9b9b;
+}
+
+.name h4 {
+	margin-bottom: -16px;
+}
+
+.name span {
+	color: #9b9b9b;
+}
+
+/* grid */
+.row {
+  margin: 0 -10px;
+}
+.row:last-child {
+  margin-bottom: 0;
+}
+[class*="col-"] {
+  padding: 10px;
+}
+
+@media all and ( min-width: 600px ) {
+  
+  .row {
+    display: table;
+    table-layout: fixed;
+    width: 100%;
+  }
+  [class*="col-"] {
+    display: table-cell;
+  }
+  
+  /* set col widths */
+  .col-1-3 {
+    width: 33%;
+  }
+  
+  .col-2-3 {
+    width: 66%;
+  }
+  
+  .col-1-2 {
+	width: 50%;
+	padding-top: 15px;
+	padding-left: 15px;
+	font-size: 12px;
+  }
+  
+  .bottom-link a {
+	text-decoration: none;
+	font-size: 13px;
+  }
+}
+
+.rating-head {
+	padding-left: 95px;
+}
+
+.rating-head h2 {
+	margin: 0;
+}
+
+.rating-head a {
+	font-size: 15px;
+	padding-left: 5px;
+}
+
+.rate-list ul {
+	list-style: none;
+	background-color: #f3f3f3;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	padding-left: 20px;
+}
+
+.rate-list li {
+	padding: 10px 30px 10px 10px;
+	border-bottom: 1px dotted #bfbfbf;
+	width: 250px;
+	position: relative;
+}
+.rate-list li:last-child {
+	border-bottom: none;
+
+}
+
+.rate-list span {
+	color: #3e88be;
+	float: right;
+	position: absolute;
+	top: 10px;
+	right: 5px;
+}
+
+.plus {
+    margin-left: -15px;
+    width: 18px;
+    margin-bottom: -18px;
+    color: #228B22;
+}
+
+.minus {
+    margin-left: -15px;
+    width: 18px;
+    margin-bottom: -15px;
+    color: #DC143C;
+}
