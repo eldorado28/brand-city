@@ -261,7 +261,7 @@ a {
 
 .rate {
 	float: right;
-	margin-top: -35px;
+	margin-top: -20px;
 	font-size: 18px;
 	color: #6690aa;
 }
@@ -306,6 +306,7 @@ a {
     display: table;
     table-layout: fixed;
     width: 100%;
+	padding-left: 10px;
   }
   [class*="col-"] {
     display: table-cell;
@@ -327,9 +328,15 @@ a {
 	font-size: 12px;
   }
   
+ .bottom-link {
+	width: 590px;
+	margin-left: -13px;
+	border-top: 1px solid #e5e5e5;
+	padding-top: 18px;
+ }
+ 
   .bottom-link a {
 	text-decoration: none;
-	font-size: 13px;
   }
 }
 
@@ -376,13 +383,18 @@ a {
 .plus {
     margin-left: -15px;
     width: 18px;
-    margin-bottom: -18px;
+    margin-bottom: -27px;
     color: #228B22;
 }
 
 .minus {
     margin-left: -15px;
     width: 18px;
-    margin-bottom: -15px;
+    margin-bottom: -27px;
     color: #DC143C;
+}
+
+.post-heading {
+	border-bottom: 1px dotted #bfbfbf;
+	padding-bottom: 14px;
 }
