@@ -416,3 +416,79 @@ a {
 .post-heading li {
 	display: inline-block;
 }
+
+ /* ================================ *
+ * AVIS In other cities of italy
+ * ================================ */
+ 
+ .other-cities ul {
+	list-style: none;
+	margin-left: -15px;
+}
+
+.other-cities {
+	background-color: #f3f3f3;    
+}
+
+.cities li {
+    padding-bottom: 10px;
+    border-bottom: 1px solid #bfbfbf;
+}
+
+.other-cities li:last-child {
+  border-bottom: none;
+}
+
+.other-cities h3 {
+    padding-left: 35px;
+    padding-top: 30px;
+    border-bottom: 3px solid #eeeeee;
+}
+
+.all-cities a {
+    color: #bfbfbf;
+    padding-left: 35px;
+}
+
+.all-cities {
+    border-top: 2px solid #bfbfbf;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+/* ================================ *
+ * Other top car rental suppliers in milan
+ * ================================ */
+ 
+ .other {
+    background-color: #d8e9f2;
+    margin-top: -20px;
+ }
+ 
+ .other h3 {
+     text-align: center;
+     padding-top: 30px;
+ }
+ 
+ /* ================================ *
+ * Rent car worldwide with EconomuBookings
+ * ================================ */
+ 
+ .worldwide h2 {
+     text-align: center;
+     padding-top: 30px;
+     padding-bottom: 30px;
+     border-bottom: 3px solid #bfbfbf;
+ }
+ 
+ .worldwide col-1-2 {
+     width: 50%;
+ }
+ 
+ .worldwide ul {
+     list-style: none;
+ }
+ 
+ .worldwide li {
+     padding-bottom: 20px;
+ }
