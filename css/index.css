@@ -543,3 +543,41 @@ a {
 	border: 1px dotted #bccad7;
  }
  
+ .comunity .col-1-3-2 {
+     background-color: #f3f3f3;
+ }
+ 
+ .comunity .col-1-3-1 {
+     background-color: #D3D3D3;
+ }
+ 
+ .question {
+     text-align: center;
+ }
+ 
+ .question p {
+     font-size: 12px;
+ }
+ 
+ .question button {
+     height: 50px;
+     width: 270px;
+     background-color: #1a587f;
+     border-color: #1a587f;
+     border-radius: 5px;
+     border-style: none;
+ }
+ 
+ .question a {
+     text-decoration: underline;
+     color: #0073b5;
+ }
+ 
+ .question button {
+     margin-top: 20px;
+     margin-bottom: 20px;
+ }
+ 
+ .contacts {
+     text-align: center;
+ }
