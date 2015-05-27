@@ -469,12 +469,22 @@ a {
      text-align: center;
      padding-top: 30px;
  }
+
+ .add {
+	display: inline-block;
+	margin-right: 15px;
+	padding-bottom: 38px;
+ }
+ 
+ .add:last-child {
+	margin-right: 0px;
+ }
  
  /* ================================ *
  * Rent car worldwide with EconomuBookings
  * ================================ */
  
- .worldwide h2 {
+ .worldwide h1 {
      text-align: center;
      padding-top: 30px;
      padding-bottom: 30px;
@@ -483,6 +493,7 @@ a {
  
  .worldwide col-1-2 {
      width: 50%;
+	 margin-left: -10px;
  }
  
  .worldwide ul {
@@ -490,5 +501,45 @@ a {
  }
  
  .worldwide li {
-     padding-bottom: 20px;
+     padding-bottom: 25px;
+	 font-size: 15px;
  }
+ 
+ .worldwide .col-1-2 li:before {
+	content: "\f00c";
+	display: block;
+	position: absolute;
+	margin-left: -15px;
+ }
+ 
+ .stars {
+	float: right;
+	margin-top: -14px;
+	color: #ffcd4a
+ }
+ 
+ .post {
+	padding-bottom: 20px;
+	padding-left: 10px;
+	padding-right: 10px;
+ }
+ 
+.tex a {
+	color: #0073b5;
+	text-decoration: underline;
+}
+
+.tex {
+	padding-left: 10px;
+	padding-right: 10px;
+	padding-bottom: 50px;
+}
+ .review {
+	float: right;
+	padding-top: 10px;
+ }
+ 
+ .post-text {
+	border: 1px dotted #bccad7;
+ }
+ 
