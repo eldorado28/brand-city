@@ -484,6 +484,10 @@ a {
  * Rent car worldwide with EconomuBookings
  * ================================ */
  
+ .worldwide{
+	padding-bottom: 40px;
+ }
+ 
  .worldwide h1 {
      text-align: center;
      padding-top: 30px;
@@ -581,3 +585,27 @@ a {
  .contacts {
      text-align: center;
  }
+ 
+ .subscribe {
+	 text-align: center;
+ }
+
+ .subscribe button {
+     height: 50px;
+     width: 250px;
+     background-color: #1a587f;
+     border-color: #1a587f;
+     border-radius: 5px;
+     border-style: none;
+	 margin-top: 10px;
+ }
+ 
+.phone-rent img {
+	width: 100%;
+}
+
+.phone-info {
+	margin-top: -500px;
+	color: #FFF;
+}
+
